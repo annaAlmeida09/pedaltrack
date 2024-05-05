@@ -68,7 +68,6 @@ class OnBoardingPageState extends State<OnBoardingPage> {
       key: introKey,
       globalBackgroundColor: Colors.white,
       allowImplicitScrolling: true,
-      autoScrollDuration: 3000,
       infiniteAutoScroll: false,
       globalHeader: Align(
         alignment: Alignment.topRight,
